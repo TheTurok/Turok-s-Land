@@ -1,0 +1,30 @@
+
+*{margin: 0; padding: 0;}
+
+
+#Tiger /*Tiger Image Header*/
+{
+    background: url("Photos/Tiger Roar.gif") no-repeat;
+	background-size: 100% 100%;
+	background-position: center;
+	position: relative;
+    height: 475px;
+	
+	border-style: solid;
+	border-width: 5px;
+	border-color: black;
+	z-index: -1;
+}
+
+#Turok /*Turok Profile Picture*/
+{
+	position: relative;
+	float: left;
+	top: -107px;
+	left: 25px;
+	
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;
+}
+
