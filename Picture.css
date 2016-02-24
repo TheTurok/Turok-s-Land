@@ -9,10 +9,10 @@
 	background-position: center;
 	position: relative;
     height: 475px;
-	
-	border-style: solid;
+
+	border-bottom: solid;
 	border-width: 5px;
-	border-color: black;
+	border-color: white;
 	z-index: -1;
 }
 
